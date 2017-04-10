@@ -1,0 +1,2 @@
+Hi! I am a text file.
+I am messing up this file with a git branch.
